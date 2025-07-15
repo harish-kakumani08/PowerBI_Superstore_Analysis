@@ -1,13 +1,15 @@
-# Sales & Profit Analysis – Superstore Dataset
+## 📊 Project Title: Sales & Profit Analysis – Superstore Dataset
 
-📊 A Power BI dashboard analyzing total sales, total profit, and sales margin using the Superstore dataset.
+### 🔎 Overview
+A Power BI dashboard built on the Superstore dataset to analyze Total Sales, Total Profit, and Sales Margin by Category, Sub-Category, Segment, Region, and Time. It includes KPIs, interactive slicers, bar charts, pie charts, and maps.
 
-## 🔍 Features
-- KPI Cards (Sales, Profit, Margin)
-- Bar, Line, Pie, and Map Visuals
-- Interactive slicers (Year, Region, Segment)
+### 📂 File Included
+- `Sales_Profit_Analysis_Superstore.pbix`: Power BI dashboard file
 
-## 📁 File
-- `Sales_Profit_Analysis_Superstore.pbix`: The Power BI project file
+### 🛠 Tools Used
+- Power BI Desktop
+- DAX formulas
+- Visualizations: Card, Bar Chart, Line Chart, Pie Chart, Map
 
-## 👨‍💻 Created by Harish Kakumani
+### 👤 Created by
+Harish Kakumani
